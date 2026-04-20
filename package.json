@@ -1,5 +1,5 @@
 {
-  "name": "automation-testing",
+  "name": "test-trainning",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,5 +10,9 @@
   "devDependencies": {
     "@playwright/test": "^1.59.1",
     "@types/node": "^25.6.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "fs": "^0.0.1-security"
   }
 }
